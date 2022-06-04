@@ -1,0 +1,44 @@
+.\objects\altitude.o: ..\CONTROL\altitude.c
+.\objects\altitude.o: ..\CONTROL\altitude.h
+.\objects\altitude.o: ..\USER\stm32f4xx.h
+.\objects\altitude.o: ..\FWLIB\core_cm4.h
+.\objects\altitude.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\altitude.o: ..\FWLIB\core_cmInstr.h
+.\objects\altitude.o: ..\FWLIB\core_cmFunc.h
+.\objects\altitude.o: ..\FWLIB\core_cmSimd.h
+.\objects\altitude.o: ..\USER\system_stm32f4xx.h
+.\objects\altitude.o: ..\USER\stm32f4xx_conf.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\altitude.o: ..\USER\stm32f4xx.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\altitude.o: ..\FWLIB\inc\misc.h
+.\objects\altitude.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\altitude.o: ..\DRIVER\inc\fbm320.h
+.\objects\altitude.o: ..\IMU\structconfig.h
+.\objects\altitude.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\altitude.o: ..\DRIVER\inc\nrf2401.h
+.\objects\altitude.o: ..\IMU\imu.h
+.\objects\altitude.o: ..\CONTROL\pid.h
+.\objects\altitude.o: ..\CONTROL\control.h
+.\objects\altitude.o: ..\DRIVER\inc\spl06.h
+.\objects\altitude.o: ..\DRIVER\inc\iic_moni.h
+.\objects\altitude.o: ..\DRIVER\inc\nvicconfig.h
+.\objects\altitude.o: ..\DRIVER\inc\delay.h
+.\objects\altitude.o: ..\DRIVER\inc\usart.h
+.\objects\altitude.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\math.h

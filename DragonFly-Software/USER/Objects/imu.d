@@ -1,0 +1,39 @@
+.\objects\imu.o: ..\IMU\imu.c
+.\objects\imu.o: ..\IMU\imu.h
+.\objects\imu.o: ..\USER\stm32f4xx.h
+.\objects\imu.o: ..\FWLIB\core_cm4.h
+.\objects\imu.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\imu.o: ..\FWLIB\core_cmInstr.h
+.\objects\imu.o: ..\FWLIB\core_cmFunc.h
+.\objects\imu.o: ..\FWLIB\core_cmSimd.h
+.\objects\imu.o: ..\USER\system_stm32f4xx.h
+.\objects\imu.o: ..\USER\stm32f4xx_conf.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\imu.o: ..\USER\stm32f4xx.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\imu.o: ..\FWLIB\inc\misc.h
+.\objects\imu.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\imu.o: ..\IMU\structconfig.h
+.\objects\imu.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\imu.o: ..\DRIVER\inc\nrf2401.h
+.\objects\imu.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\math.h
+.\objects\imu.o: ..\IMU\filter.h
+.\objects\imu.o: ..\DRIVER\inc\mpu9250.h
+.\objects\imu.o: ..\CONTROL\control.h
+.\objects\imu.o: ..\DRIVER\inc\ICM20948.h

@@ -1,0 +1,39 @@
+.\objects\nrf2401.o: ..\DRIVER\src\nrf2401.c
+.\objects\nrf2401.o: ..\DRIVER\inc\nrf2401.h
+.\objects\nrf2401.o: ..\USER\stm32f4xx.h
+.\objects\nrf2401.o: ..\FWLIB\core_cm4.h
+.\objects\nrf2401.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\nrf2401.o: ..\FWLIB\core_cmInstr.h
+.\objects\nrf2401.o: ..\FWLIB\core_cmFunc.h
+.\objects\nrf2401.o: ..\FWLIB\core_cmSimd.h
+.\objects\nrf2401.o: ..\USER\system_stm32f4xx.h
+.\objects\nrf2401.o: ..\USER\stm32f4xx_conf.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\nrf2401.o: ..\USER\stm32f4xx.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\nrf2401.o: ..\FWLIB\inc\misc.h
+.\objects\nrf2401.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\nrf2401.o: ..\DRIVER\inc\spi.h
+.\objects\nrf2401.o: ..\DRIVER\inc\delay.h
+.\objects\nrf2401.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\nrf2401.o: ..\DRIVER\inc\led.h
+.\objects\nrf2401.o: ..\COMMUNICATE\remotedata.h
+.\objects\nrf2401.o: ..\IMU\structconfig.h
+.\objects\nrf2401.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\nrf2401.o: ..\CONTROL\paramsave.h

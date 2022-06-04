@@ -1,0 +1,37 @@
+.\objects\spl06.o: ..\DRIVER\src\spl06.c
+.\objects\spl06.o: ..\DRIVER\inc\spl06.h
+.\objects\spl06.o: ..\USER\stm32f4xx.h
+.\objects\spl06.o: ..\FWLIB\core_cm4.h
+.\objects\spl06.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spl06.o: ..\FWLIB\core_cmInstr.h
+.\objects\spl06.o: ..\FWLIB\core_cmFunc.h
+.\objects\spl06.o: ..\FWLIB\core_cmSimd.h
+.\objects\spl06.o: ..\USER\system_stm32f4xx.h
+.\objects\spl06.o: ..\USER\stm32f4xx_conf.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\spl06.o: ..\USER\stm32f4xx.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\spl06.o: ..\FWLIB\inc\misc.h
+.\objects\spl06.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\spl06.o: ..\DRIVER\inc\iic_moni.h
+.\objects\spl06.o: ..\DRIVER\inc\nvicconfig.h
+.\objects\spl06.o: ..\DRIVER\inc\delay.h
+.\objects\spl06.o: ..\DRIVER\inc\usart.h
+.\objects\spl06.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\spl06.o: ..\DRIVER\inc\led.h

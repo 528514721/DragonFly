@@ -1,0 +1,37 @@
+.\objects\pid.o: ..\CONTROL\pid.c
+.\objects\pid.o: ..\USER\stm32f4xx.h
+.\objects\pid.o: ..\FWLIB\core_cm4.h
+.\objects\pid.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pid.o: ..\FWLIB\core_cmInstr.h
+.\objects\pid.o: ..\FWLIB\core_cmFunc.h
+.\objects\pid.o: ..\FWLIB\core_cmSimd.h
+.\objects\pid.o: ..\USER\system_stm32f4xx.h
+.\objects\pid.o: ..\USER\stm32f4xx_conf.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\pid.o: ..\USER\stm32f4xx.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\pid.o: ..\FWLIB\inc\misc.h
+.\objects\pid.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\pid.o: ..\CONTROL\pid.h
+.\objects\pid.o: ..\IMU\imu.h
+.\objects\pid.o: ..\IMU\structconfig.h
+.\objects\pid.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\pid.o: ..\DRIVER\inc\nrf2401.h
+.\objects\pid.o: ..\DRIVER\inc\led.h
+.\objects\pid.o: ..\CONTROL\ParamSave.h

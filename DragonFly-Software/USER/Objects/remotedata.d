@@ -1,0 +1,37 @@
+.\objects\remotedata.o: ..\COMMUNICATE\remotedata.c
+.\objects\remotedata.o: ..\COMMUNICATE\remotedata.h
+.\objects\remotedata.o: ..\USER\stm32f4xx.h
+.\objects\remotedata.o: ..\FWLIB\core_cm4.h
+.\objects\remotedata.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\remotedata.o: ..\FWLIB\core_cmInstr.h
+.\objects\remotedata.o: ..\FWLIB\core_cmFunc.h
+.\objects\remotedata.o: ..\FWLIB\core_cmSimd.h
+.\objects\remotedata.o: ..\USER\system_stm32f4xx.h
+.\objects\remotedata.o: ..\USER\stm32f4xx_conf.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\remotedata.o: ..\USER\stm32f4xx.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\remotedata.o: ..\FWLIB\inc\misc.h
+.\objects\remotedata.o: ..\FWLIB\inc\stm32f4xx_flash_ramfunc.h
+.\objects\remotedata.o: ..\DRIVER\inc\usart.h
+.\objects\remotedata.o: D:\Program Files\Keil\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\remotedata.o: ..\IMU\structconfig.h
+.\objects\remotedata.o: ..\DRIVER\inc\nrf2401.h
+.\objects\remotedata.o: ..\DRIVER\inc\led.h
+.\objects\remotedata.o: ..\DRIVER\inc\power.h
